@@ -150,7 +150,7 @@
 			<key>name</key>
 			<string>Support Function</string>
 			<key>scope</key>
-			<string>support.function</string>
+			<string>support.function, keyword.operator.arithmetic</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -172,7 +172,7 @@
 			<key>name</key>
 			<string>Predicate Function</string>
 			<key>scope</key>
-			<string>keyword.other.function.predicate</string>
+			<string>keyword.other.function.predicate, keyword.operator.comparison</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -192,9 +192,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Flow Control Function</string>
+			<string>Flow Control</string>
 			<key>scope</key>
-			<string>keyword.control</string>
+			<string>keyword.control, keyword.operator.logical</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
