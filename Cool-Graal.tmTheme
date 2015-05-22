@@ -192,6 +192,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Macro Name</string>
+			<key>scope</key>
+			<string>entity.name.macro</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#E4D962</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Flow Control</string>
 			<key>scope</key>
 			<string>keyword.control, keyword.operator.logical</string>
