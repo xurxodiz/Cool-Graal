@@ -313,13 +313,24 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Superclass Name</string>
+			<key>scope</key>
+			<string>entity.name.class.super</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#B998DF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Class Name</string>
 			<key>scope</key>
 			<string>entity.name.class</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B998DF</string>
+				<string>#E4D962</string>
 			</dict>
 		</dict>
 		<dict>
