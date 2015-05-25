@@ -370,7 +370,7 @@
 			<key>name</key>
 			<string>Function Call</string>
 			<key>scope</key>
-			<string>variable.other.function-call</string>
+			<string>variable.other.function-call - meta.list.quoted</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
