@@ -172,7 +172,7 @@
 			<key>name</key>
 			<string>Predicate Function</string>
 			<key>scope</key>
-			<string>keyword.other.function.predicate, keyword.operator.comparison</string>
+			<string>keyword.other.function.predicate, keyword.operator.logical, keyword.operator.comparison</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -216,7 +216,7 @@
 			<key>name</key>
 			<string>Flow Control</string>
 			<key>scope</key>
-			<string>keyword.control, keyword.operator.logical</string>
+			<string>keyword.control</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
