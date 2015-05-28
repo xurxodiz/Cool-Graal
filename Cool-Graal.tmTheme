@@ -170,9 +170,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Predicate Function</string>
+			<string>Logical Function</string>
 			<key>scope</key>
-			<string>keyword.other.function.predicate, keyword.operator.logical, keyword.operator.comparison</string>
+			<string>keyword.operator.logical, keyword.operator.comparison</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
