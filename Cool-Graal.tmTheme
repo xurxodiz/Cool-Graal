@@ -161,22 +161,11 @@
 			<key>name</key>
 			<string>Misc Function</string>
 			<key>scope</key>
-			<string>keyword.other.function.misc</string>
+			<string>keyword.operator.logical, keyword.operator.comparison, keyword.other.function.misc</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#A3AAD8</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Logical Function</string>
-			<key>scope</key>
-			<string>keyword.operator.logical, keyword.operator.comparison</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#FFCBDB</string>
 			</dict>
 		</dict>
 		<dict>
