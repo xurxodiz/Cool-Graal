@@ -368,6 +368,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Directives</string>
+			<key>scope</key>
+			<string>keyword.other.read-time</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFCBDB</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Invalid</string>
 			<key>scope</key>
 			<string>invalid, meta.list.quoted keyword.other.special.commad - meta.list.backquoted, meta.list.quoted meta.list.commad - meta.list.backquoted</string>
